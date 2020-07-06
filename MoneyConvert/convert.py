@@ -20,7 +20,7 @@ def exchange(currency, quantity):
 try:
     currency = int(input('''
     Chose currency:
-    [1] Rubles
+    [1] Rubles 
     [2] Colombian Pesos
     [3] Mexican Pesos
     '''))
